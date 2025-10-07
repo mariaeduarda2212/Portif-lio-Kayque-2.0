@@ -61,7 +61,13 @@ Este portfólio foi **desenvolvido em React**, com estrutura modular e design re
 
 ## 🖼️ Screenshots
 
-> (adicione aqui capturas de tela do site)
+> <img width="1919" height="992" alt="image" src="https://github.com/user-attachments/assets/17a0e63e-846c-4c86-9b4c-f58f8c3d2842" />
+> <img width="1919" height="526" alt="image" src="https://github.com/user-attachments/assets/5967bab0-ea32-466d-a1f7-44461f422cc7" />
+> <img width="1919" height="669" alt="image" src="https://github.com/user-attachments/assets/0d7ee5d4-d6c8-44da-b32d-7ec442c46342" />
+> <img width="1916" height="990" alt="image" src="https://github.com/user-attachments/assets/6836ae4f-6c20-447f-af08-9bb3b6ce1e42" />
+> <img width="1914" height="848" alt="image" src="https://github.com/user-attachments/assets/3f455667-a6ee-4678-b207-980163f03726" />
+> <img width="1919" height="498" alt="image" src="https://github.com/user-attachments/assets/edc3e517-ad19-430e-9d44-783fd223512d" />
+
 
 ---
 
